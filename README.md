@@ -73,7 +73,10 @@ echo "Resultado de letras: ***".$letras."***";
   
   
   ##GNU GENERAL PUBLIC LICENSE
-  <p></p>
+  <p> </p>
+  The GNU General Public License is a free, copyleft license for software and other kinds of works.
+  <p> </p>
+  <p> </p>
   
   Created by: 	**Hector Manuel Alonso Ortiz**
   <p></p>
