@@ -39,9 +39,9 @@ Ejemplo: MXN, EUR, USD ...
   Envía el número y la moneda con la que se quiere trabajar e imprimir
 </p>  
 
-<p>
+
   **Fácil !!!**
-</p>  
+  
 
 
 <pre>
@@ -72,7 +72,7 @@ echo "Resultado de letras: ***".$letras."***";
   </p>
   
   
-  ##GNU GENERAL PUBLIC LICENSE
+  ## GNU GENERAL PUBLIC LICENSE
   <p> </p>
   The GNU General Public License is a free, copyleft license for software and other kinds of works.
   <p> </p>
