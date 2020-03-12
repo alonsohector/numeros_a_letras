@@ -19,7 +19,9 @@ Ejemplo: MXN, EUR, USD ...
 ## LÍMITES:
 
    18 dígitos con 2 decimales
+   <pre>
     Ejemplo: 999,999,999,999,999,999.99
+    <pre>
     
 ## DECIMANLES:
  Al final del texto agregará la representacion de decimales como se usa en Mexico
@@ -29,7 +31,7 @@ Ejemplo: MXN, EUR, USD ...
  
 <hl>
   <p align="center">
-      <h2>How to use MyZPL</h2>
+      <h2>Cómo usar Numeros_a_Letras</h2>
   </p> 
 </hl>
   
