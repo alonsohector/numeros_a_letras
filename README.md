@@ -8,7 +8,7 @@ Esta clase convierte de números a letras en formato Mexicano.
  </p> 
 </hl>
 
-Basados en el Anexo20 del diario oficial del SAT conforme con la especificación ISO 4217 para el uso de monedas.
+Basados en el Anexo20 (del diario oficial) del SAT conforme con la especificación ISO 4217 para el uso de monedas.
  
 http://omawww.sat.gob.mx/tramitesyservicios/Paginas/documentos/GuiaAnexo20.pdf
 
