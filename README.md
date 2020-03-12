@@ -21,7 +21,7 @@ Ejemplo: MXN, EUR, USD ...
    18 dígitos con 2 decimales
    <pre>
     Ejemplo: 999,999,999,999,999,999.99
-    <pre>
+    </pre>
     
 ## DECIMANLES:
  Al final del texto agregará la representacion de decimales como se usa en Mexico
