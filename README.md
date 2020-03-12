@@ -16,7 +16,7 @@ http://omawww.sat.gob.mx/tramitesyservicios/Paginas/documentos/GuiaAnexo20.pdf
 Ejemplo: MXN, EUR, USD ...
 </pre>
 
-## LIMITES:
+## LÍMITES:
 
    18 dígitos con 2 decimales
     Ejemplo: 999,999,999,999,999,999.99
